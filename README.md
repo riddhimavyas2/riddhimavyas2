@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Riddhima Vyas
 
-<!--
-**riddhimavyas2/riddhimavyas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & IT Student  
+💻 Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- React.js
+- JavaScript
+- MySQL
+- SQL
+- HTML & CSS
+- Git & GitHub
+- Data Structures & Algorithms
+
+## 🚀 Projects
+
+### SkillSwap
+Peer-to-Peer Skill Exchange Platform
+
+🔗 [View Project](https://github.com/riddhimavyas2/Skillswap)
+
+### ElectroTrack
+Electricity Billing & Customer Management System
+
+## 📫 Connect With Me
+
+- 📧 Email: riddhimavyas2@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/riddhima-vyas-46b11b377/)
+- 🐙 [GitHub](https://github.com/riddhimavyas2)
