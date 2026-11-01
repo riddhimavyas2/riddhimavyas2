@@ -1,7 +1,7 @@
 # Hi 👋 I'm Riddhima Vyas
 
 🎓 B.Tech Computer Science & IT Student  
-💻 Aspiring Java Full Stack Developer
+💻 Aspiring Full Stack Developer
 
 ## 🛠️ Skills
 
