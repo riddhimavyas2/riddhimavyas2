@@ -20,11 +20,9 @@
 
 ### SkillSwap
 Peer-to-Peer Skill Exchange Platform
+🔗 [View Project](https://github.com/riddhimavyas2/Skillswap)
 ### FoodBridge
 Food Donation Platform
-
-🔗 [View Project](https://github.com/riddhimavyas2/Skillswap)
-
 ### ElectroTrack
 Electricity Billing & Customer Management System
 
