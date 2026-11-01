@@ -5,8 +5,9 @@
 
 ## 🛠️ Skills
 
+- Python
 - Java
-- Spring Boot
+- Fast API
 - React.js
 - JavaScript
 - MySQL
@@ -19,6 +20,8 @@
 
 ### SkillSwap
 Peer-to-Peer Skill Exchange Platform
+### FoodBridge
+Food Donation Platform
 
 🔗 [View Project](https://github.com/riddhimavyas2/Skillswap)
 
